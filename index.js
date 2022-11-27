@@ -43,8 +43,8 @@ const questions = [
         message: "Please choose which license your ReadMe.md is licensed by:",
         choices: [
             {
-                name:"Eclipse Public License 1.0",
-                value:"Eclipse Public License 1.0",
+                name:"Apache 2.0",
+                value:"Apache 2.0",
             },
             {
                 name:"GNU General Public License v3.0",
