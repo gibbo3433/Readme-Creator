@@ -54,11 +54,11 @@ const questions = [
         message: "What is your email address?",
     },
 
-    {
-        type: "list",
-        name: "license",
-        message: "????",
-    },
+    //{
+   //     type: "list",
+    //    name: "license",
+   //     message: "????",
+  //  },
 
 
 ];
