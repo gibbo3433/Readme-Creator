@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// This function will find the specific license badge and display it on the Readme file
 function renderLicenseBadge(license) {
   if ( license !== "none" ) {
     return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)` 
@@ -7,8 +6,7 @@ function renderLicenseBadge(license) {
   return ""
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// This function will find the specific license link and display it next to the license shown in the Readme
 function renderLicenseLink(license) {
   if ( license !== "none ") {
     return `(https://opensource.org/licenses/Apache-2.0)`
@@ -16,8 +14,7 @@ function renderLicenseLink(license) {
   return ""
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// This function will display in text what license has been used in the Readme
 function renderLicenseSection(license) {
   if ( license !== "none ") {
     return ` This project is licensed under: ${license} `
