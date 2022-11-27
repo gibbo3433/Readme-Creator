@@ -14,50 +14,50 @@ const questions = [
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "description",
+        message: "A brief description of your product:",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "installation",
+        message: "What steps did you follow to create your project? ",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "usage",
+        message: "What can your code be used for?",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "contributing",
+        message: "Who contributed to this project?",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "tests",
+        message: "Are there any tests for this project?",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "username",
+        message: "What is your GitHub username?",
     },
 
     {
         type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        name: "email",
+        message: "What is your email address?",
     },
 
     {
-        type: "input",
-        name: "title",
-        message: "Enter your title for your ReadMe document",
+        type: "list",
+        name: "license",
+        message: "????",
     },
 
 
