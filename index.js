@@ -34,7 +34,33 @@ const questions = [
         type: "input",
         name: "contributing",
         message: "Who contributed to this project?",
+    },   
+        
+        
+    {
+        type: "list",
+        name: "license",
+        message: "Please choose which license your ReadMe.md is licensed by:",
+        choices: [
+            {
+                name:"Eclipse Public License 1.0",
+                value:"Eclipse Public License 1.0",
+            },
+            {
+                name:"GNU General Public License v3.0",
+                value:"GNU General Public License v3.0",
+            },
+            {
+                name:"Microsoft Public License",
+                value:"Microsoft Public License",
+            },
+            {
+                name:"none",
+                value:"none",
+            },
+        ]
     },
+
 
     {
         type: "input",
@@ -53,13 +79,6 @@ const questions = [
         name: "email",
         message: "What is your email address?",
     },
-
-    //{
-   //     type: "list",
-    //    name: "license",
-   //     message: "????",
-  //  },
-
 
 ];
 
