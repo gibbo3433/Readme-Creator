@@ -46,11 +46,15 @@ function generateMarkdown(data) {
 
   ${data.tests}
 
+  ## License
+
+  ${data.tests}
+
   ## Questions
 
   If you have questions you want to ask about this project, please contact ${data.username}(https://github.com/${data.username})</br>
   OR, you can send an email to ${data.email}
-  
+
 `;
 }
 
