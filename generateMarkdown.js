@@ -20,15 +20,15 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## Contents
+  ##Contents
 
-  * [Title]{#title}
-  * [Description]{#description}
-  * [Installation]{#installation}
-  * [Usage]{#usage}
-  * [Contributing]{#contributing}
-  * [Tests]{#tests}
-  * [Questions][#questions]
+  * [Title](#title)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
 
@@ -53,7 +53,7 @@ function generateMarkdown(data) {
   ## Questions
 
   If you have questions you want to ask about this project, please contact ${data.username}(https://github.com/${data.username})</br>
-  OR, you can send an email to ${data.email}
+  Or, you can send an email to ${data.email}
 
 `;
 }
