@@ -41,9 +41,10 @@ on GitHub and use these in my code, with the correct coluring also.
 
 I have added  Javascript //notes to help any future edits by making it easier to see what the different elements are in the code so that if any collaboration work will be done in the future, it will be easiser to track and change.
 
-## Screenshot of completed webpage + Inspect
+## Video Demonstration
 
-![weatherdashboardscreenshot](https://user-images.githubusercontent.com/113479774/200648821-07e98c2e-2949-4bf9-a26c-1bb46d06477e.png)
+
+
 
 ## Link to deployed application
 
