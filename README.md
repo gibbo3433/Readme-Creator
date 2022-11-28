@@ -43,8 +43,11 @@ I have added  Javascript //notes to help any future edits by making it easier to
 
 ## Video Demonstration
 
+https://drive.google.com/file/d/1L_SWbchx63t2yLh2zSvxeAt8XGACli8a/view?usp=sharing
 
+## Image of completed ReadMe
 
+---
 
 ## Link to deployed application
 
